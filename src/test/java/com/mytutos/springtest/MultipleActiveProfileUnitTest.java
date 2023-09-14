@@ -1,4 +1,4 @@
-package com.mytutos.springtest.baeldung;
+package com.mytutos.springtest;
 
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
