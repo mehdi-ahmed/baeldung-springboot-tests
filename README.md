@@ -1,6 +1,6 @@
 # Articles from Baeldung.com
 
-* [A Guide to JUnit 5](https://www.baeldung.com/junit-5) // TODO
+* [A Guide to JUnit 5](https://www.baeldung.com/junit-5)
 * [Execute Tests Based on Active Profile With JUnit 5](https://www.baeldung.com/spring-boot-junit-5-testing-active-profile)
 
 # Articles from Medium
