@@ -12,8 +12,8 @@ import static org.junit.jupiter.api.Assertions.assertEquals;
 
 public class LiveTest {
 
-    private List<String> in = new ArrayList<>(Arrays.asList("Hello", "Yes", "No"));
-    private List<String> out = new ArrayList<>(Arrays.asList("Cześć", "Tak", "Nie"));
+    private final List<String> in = new ArrayList<>(Arrays.asList("Hello", "Yes", "No"));
+    private final List<String> out = new ArrayList<>(Arrays.asList("Cześć", "Tak", "Nie"));
 
     @TestFactory
     Stream<DynamicTest> translateDynamicTestFromStream() {
